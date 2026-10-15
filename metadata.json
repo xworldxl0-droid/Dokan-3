@@ -1,0 +1,7 @@
+{
+  "name": "ThumbGenius AI",
+  "description": "Create stunning, high-converting YouTube thumbnails with AI. Upload images or describe your idea with professional 1280x720 specs, safe margins, and customizable overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
